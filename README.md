@@ -1,1 +1,1 @@
-Check test.ipynb for guide for the package Restaurant
+Check test.ipynb for guidance of the package Restaurant
