@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "im-intro-final"
+version = "0.1.0"
+description = ""
+authors = ["leeyoyo49 <lee.s.yoyo0409@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^1.26.4"
+pandas = "^2.2.2"
+matplotlib = "^3.9.0"
+gurobipy = "^11.0.2"
+openpyxl = "^3.1.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
